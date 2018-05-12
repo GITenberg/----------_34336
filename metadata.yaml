@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33027
     wikipedia: http://el.wikipedia.org/wiki/Ιωάννης_Κονδυλάκης
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34336#----------
 gutenberg_issued: '2010-11-15'
 gutenberg_type: Text
 identifiers:
